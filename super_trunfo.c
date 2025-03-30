@@ -273,7 +273,7 @@ void escolher_atributo()
 			default:
 				printf("Opção inválida!\n");
 		}
-	} while (opcao < 1 || opcao > 6);
+	} while (opcao < 1 || opcao > 7);
 
 	escolher_atributo();
 }
